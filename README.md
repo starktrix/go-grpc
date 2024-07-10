@@ -85,5 +85,5 @@ Explicit Implementation: Using TranslationServer requires you to explicitly impl
 cross platform class from node client to golang server
 edited the node clinet to include `package proto` which was contained in here
 ```
-https://www.phind.com/search?cache=jgei95zcty0b7uqm49ik3yaf
+[AI Prompt](https://www.phind.com/search?cache=jgei95zcty0b7uqm49ik3yaf)
 ```
