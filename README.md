@@ -1,7 +1,9 @@
 [grpc](https://grpc.io/docs/languages/)
+
 [blog post](https://medium.com/@rohitk12r/design-and-develop-grpc-service-using-golang-d0b0ba212af0)
+
 [blog post](https://medium.com/@tj.ruesch/getting-started-with-grpc-and-golang-45407211f04d)
--
+
 [blog post](https://medium.com/@muradu.iurie.1986/grpc-in-go-unlocking-high-performance-microservices-661164d06434)
 
 ```sh
