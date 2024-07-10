@@ -1,8 +1,8 @@
-https://grpc.io/docs/languages/
-https://medium.com/@rohitk12r/design-and-develop-grpc-service-using-golang-d0b0ba212af0
-https://medium.com/@tj.ruesch/getting-started-with-grpc-and-golang-45407211f04d
+[grpc](https://grpc.io/docs/languages/)
+[blog post](https://medium.com/@rohitk12r/design-and-develop-grpc-service-using-golang-d0b0ba212af0)
+[blog post](https://medium.com/@tj.ruesch/getting-started-with-grpc-and-golang-45407211f04d)
 -
-https://medium.com/@muradu.iurie.1986/grpc-in-go-unlocking-high-performance-microservices-661164d06434
+[blog post](https://medium.com/@muradu.iurie.1986/grpc-in-go-unlocking-high-performance-microservices-661164d06434)
 
 ```sh
 $ go get google.golang.org/protobuf/cmd/protoc-gen-go
@@ -43,7 +43,7 @@ option go_package = "./todo";
 src/grpc/todo
 
 ```bash
-https://www.phind.com/search?cache=jgei95zcty0b7uqm49ik3yaf
+[AI Prompt](https://www.phind.com/search?cache=jgei95zcty0b7uqm49ik3yaf)
 
 The go get, go install, and go get -u commands in Go serve different purposes related to managing and installing packages and binaries within a Go project. Here's a detailed explanation of each:
 
